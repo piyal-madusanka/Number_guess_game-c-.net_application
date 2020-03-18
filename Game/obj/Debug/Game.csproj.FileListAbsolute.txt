@@ -1,0 +1,7 @@
+c:\users\madusanka\source\repos\Game\Game\bin\Debug\Game.exe.config
+c:\users\madusanka\source\repos\Game\Game\bin\Debug\Game.exe
+c:\users\madusanka\source\repos\Game\Game\bin\Debug\Game.pdb
+c:\users\madusanka\source\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+c:\users\madusanka\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+c:\users\madusanka\source\repos\Game\Game\obj\Debug\Game.exe
+c:\users\madusanka\source\repos\Game\Game\obj\Debug\Game.pdb
